@@ -3,7 +3,7 @@
 CS GO by default limits the radio commands that you can use in your in-game radio panel. But there is definitely a way, by which we can add more commands.
 
 Follow these simple steps for achieving this.
-1. Download the `radiopanel.txt` file.
+1. Download the [radiopanel.txt](./radiopanel.txt) file.
 2. Open the folder where you have installed `steam`.
 3. Now in the `steam` directory, go to `>steamapps>csgo>resource>ui>radiopanel`.
 4. Replace the `radiopanel.txt` file with the one you downloaded.

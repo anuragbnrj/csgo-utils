@@ -6,3 +6,4 @@ Here you can find all the required settings needed to play CS GO like a pro. If 
 ## Table of Contents
 
 1. [Radio Panel](./radiopanel/README.md)
+2. [Improve FPS](./fps/README.md)
